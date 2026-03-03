@@ -49,7 +49,7 @@ function quickSort(arr, low, high)
 }
 
 
-// Driver Code
+
 let arr = [ 10, 7, 8, 9, 1, 5 ];
 let n = arr.length;
 
